@@ -1,3 +1,18 @@
 = BootstrapWebsite
 
+
+=Features
+-------------
+Dynamic website with bootstrap (Responsive)
+
+Contributors
+------------
+SAI RAM I
+
+BHANU PRASAD
+
+CHANAKYA DEVRAJ
+
+DHEERAJ SHRAMA
+-------------------------------------------------------------------
 This project rocks and uses MIT-LICENSE.
