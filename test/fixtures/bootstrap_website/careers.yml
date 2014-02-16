@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  job_name: MyString
+  description: MyText
+  how_to_apply: MyText
+
+two:
+  job_name: MyString
+  description: MyText
+  how_to_apply: MyText
